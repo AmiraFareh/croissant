@@ -1,5 +1,5 @@
 body {
-  background-color: bisque;
+  background-color: cadetblue;
 }
 h1 {
   color: blueviolet;
@@ -13,6 +13,9 @@ p {
 .links {
   display: flex;
   justify-content: space-evenly;
+}
+a {
+  color: purple;
 }
 
 img {
